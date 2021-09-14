@@ -1,0 +1,10 @@
+/* .container-fluid {
+    background-color: blue;
+    height: 500px;
+} */
+.align-self-center {
+    text-align: center;
+}
+.align-self-end {
+    text-align: end;
+}
